@@ -44,7 +44,7 @@ include_once MC_CORE_DIR . '/music.php';
 
 // 支持的网站
 $music_type_list = array(
-    'netease'    => '网易',
+    'netease'    => '网易(努力修复ing^_^)',
     'qq'         => 'ＱＱ',
     'kugou'      => '酷狗',
     'kuwo'       => '酷我',
